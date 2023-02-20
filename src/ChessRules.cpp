@@ -15,7 +15,7 @@
 #include "PrivateChessDefs.h"
 using namespace std;
 using namespace thc;
-
+//file edited
 // Table indexed by Square, gives mask for DETAIL_CASTLING, such that a move
 //  to (or from) that square results in castling being prohibited, eg a move
 //  to e8 means that subsequently black kingside and black queenside castling
